@@ -650,6 +650,13 @@ img {
   margin-left: 506px;
 }
 
+.portfolio__title1_1 {
+  font-size: var(--h3-font-size);
+  margin-bottom: var(--mb-0-5);
+  margin-top: 5px;
+  margin-left: 506px;
+}
+
 .portfolio__description1 {
   margin-bottom: var(--mb-0-75);
   margin-left: 320px;
@@ -960,6 +967,7 @@ img {
   }
 
   .portfolio__title1,
+  .portfolio__title1_1,
   .portfolio__title2,
   .portfolio__title3,
   .portfolio__title4,
@@ -1015,6 +1023,7 @@ img {
   }
 
   .portfolio__title1,
+  .portfolio__title1_1,
   .portfolio__title2,
   .portfolio__title3,
   .portfolio__title4,
@@ -1109,6 +1118,7 @@ img {
   }
 
   .portfolio__title1,
+  .portfolio__title1_1,
   .portfolio__title2,
   .portfolio__title3,
   .portfolio__title4,
@@ -1278,6 +1288,7 @@ img {
     }
   
     .portfolio__title1,
+    .portfolio__title1_1,
     .portfolio__title2,
     .portfolio__title3,
     .portfolio__title4,
@@ -1319,6 +1330,7 @@ img {
   }
 
   .portfolio__title1,
+  .portfolio__title1_1,
   .portfolio__title2,
   .portfolio__title3,
   .portfolio__title4,
@@ -1407,6 +1419,7 @@ img {
   }
 
   .portfolio__title1,
+  .portfolio__title1_1,
   .portfolio__title2,
   .portfolio__title3,
   .portfolio__title4,
@@ -1446,6 +1459,7 @@ img {
   }
 
   .portfolio__title1,
+  .portfolio__title1_1,
   .portfolio__title2,
   .portfolio__title3,
   .portfolio__title4,
@@ -1485,6 +1499,7 @@ img {
   }
 
   .portfolio__title1,
+  .portfolio__title1_1,
   .portfolio__title2,
   .portfolio__title3,
   .portfolio__title4,
